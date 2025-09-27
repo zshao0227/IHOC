@@ -66,11 +66,11 @@ nav:
   # - 主页: /
   - History of the Internet:
     - China:
-      - Booting Up: china/1.md
-      - Awaiting Scale: china/2.md
-      - Cat and Mouse Era: china/3.md
-      - Nailing Jell-O to the Wall: china/4.md
-      - China’s Own Innovations: china/5.md
+      - Beginnings and Exploration: china/1.md
+      - Popularization and Portals: china/2.md
+      - Mobile and Social: china/3.md
+      - Platforms and Ecosystems: china/4.md
+      - Intelligence and Integration: china/5.md
       - What’s Next?: china/6.md
     - America: america.md
 
