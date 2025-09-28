@@ -32,12 +32,12 @@ theme:
     - announce.dismiss # 可关闭公告栏
     - navigation.instant # 页面无刷新切换
     - navigation.prune # 只渲染可见导航项
-    # - header.autohide  # 自动隐藏头部
+    #- header.autohide  # 自动隐藏头部
     - navigation.instant.progress # 页面切换进度条
     #- navigation.prune # 只渲染可见导航项
     - navigation.tracking # 滚动时URL锚点自动更新
     - navigation.tabs # 一级导航显示为顶部Tab
-    # - navigation.tabs.sticky  # Tab栏吸顶
+    #- navigation.tabs.sticky  # Tab栏吸顶
     #- navigation.sections # 侧边栏分组
     - navigation.top # 返回顶部按钮
     - navigation.footer # 页脚显示在侧边栏
