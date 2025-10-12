@@ -39,5 +39,6 @@ jobs:
       # - run: pip install mkdocs-rss-plugin           
       - run: pip install mkdocs-material 
       - run: pip install --upgrade --force-reinstall mkdocs-material
+      - run: pip install mkdocs-redirects
       - run: mkdocs gh-deploy --force
 
